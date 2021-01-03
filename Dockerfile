@@ -1,1 +1,1 @@
-From gcr.io/spinnaker-marketplace/front50:0.19.0-20190904130744
+From gcr.io/spinnaker-marketplace/gate:1.11.0-20190904112813
