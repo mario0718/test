@@ -1,1 +1,1 @@
-From gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190904130744
+From gcr.io/spinnaker-marketplace/echo:2.7.0-20190904112813
