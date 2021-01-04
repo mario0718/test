@@ -1,1 +1,1 @@
-From gcr.io/spinnaker-marketplace/igor:1.5.0-20190904155640
+From gcr.io/kubernetes-spinnaker/redis-cluster:v2
