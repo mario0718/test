@@ -1,1 +1,1 @@
-From gcr.io/spinnaker-marketplace/igor:1.5.0-20190904130744
+From gcr.io/spinnaker-marketplace/igor:1.5.0-20190904155640
