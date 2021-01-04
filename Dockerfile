@@ -1,1 +1,1 @@
-From gcr.io/spinnaker-marketplace/rosco:0.14.0-20190904130744
+From gcr.io/spinnaker-marketplace/fiat:1.7.0-20190904130744
