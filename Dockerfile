@@ -1,1 +1,1 @@
-From gcr.io/kubernetes-spinnaker/redis-cluster:v2
+From gcr.io/spinnaker-marketplace/rosco:0.14.0-20190904130744
