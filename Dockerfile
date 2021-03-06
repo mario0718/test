@@ -1,1 +1,1 @@
-From gcr.io/spinnaker-marketplace/fiat:1.7.0-20190904130744
+From k8s.gcr.io/dns/k8s-dns-node-cache:1.17.0
