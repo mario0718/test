@@ -1,1 +1,1 @@
-From k8s.gcr.io/coredns/coredns:v1.8.0
+From k8s.gcr.io/defaultbackend-amd64:1.5
