@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
+FROM k8s.gcr.io/descheduler/descheduler:v0.23.1
