@@ -1,1 +1,1 @@
-FROM ghcr.io/dexidp/dex:v2.37.0
+FROM pytorch/pytorch:2.1.2-cuda12.1-cudnn8-devel
