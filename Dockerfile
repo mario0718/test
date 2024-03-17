@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.1.2-cuda12.1-cudnn8-devel
+FROM registry.cn-beijing.aliyuncs.com/chatchat/chatchat:0.2.7
