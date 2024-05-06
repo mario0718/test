@@ -1,1 +1,1 @@
-FROM ghcr.io/opendevin/opendevin:0.5
+FROM ghcr.io/opendevin/sandbox
