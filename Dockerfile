@@ -1,1 +1,1 @@
-FROM ghcr.io/opendevin/opendevin:0.6.2
+FROM container-registry.oracle.com/database/free:latest
