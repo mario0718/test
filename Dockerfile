@@ -1,1 +1,1 @@
-FROM container-registry.oracle.com/database/free:latest
+FROM ubuntu:22.04
