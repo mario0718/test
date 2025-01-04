@@ -1,1 +1,1 @@
-FROM ubuntu:22.04
+FROM nvidia/cuda:12.1.1-base-ubuntu22.04
