@@ -1,1 +1,1 @@
-FROM ghcr.io/danny-avila/librechat-dev:latest
+FROM mongo
