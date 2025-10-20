@@ -1,1 +1,1 @@
-FROM nvidia/cuda:12.1.1-base-ubuntu22.04
+FROM ghcr.io/danny-avila/librechat-dev:latest
