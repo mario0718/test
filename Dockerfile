@@ -1,1 +1,1 @@
-FROM mongo
+FROM ghcr.io/mckaywrigley/chatbot-ui:main
