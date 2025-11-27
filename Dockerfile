@@ -1,1 +1,1 @@
-FROM ghcr.io/mckaywrigley/chatbot-ui:main
+FROM http://ghcr.io/open-webui/open-webui:main
