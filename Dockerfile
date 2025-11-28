@@ -1,1 +1,1 @@
-FROM ghcr.io/open-webui/open-webui:main
+FROM ghcr.io/xixu-me/xget:latest
