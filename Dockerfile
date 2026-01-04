@@ -1,1 +1,1 @@
-FROM ghcr.io/xixu-me/xget:latest
+FROM ghcr.io/prymitive/karma:latest
